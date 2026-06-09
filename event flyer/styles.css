@@ -1,0 +1,18 @@
+body {
+    width: 80vw;
+    padding: 50px 0;
+    margin: 0 auto;
+    text-align: center;
+    min-height: calc(100% - 100px);
+}
+hr {
+    height: 2px;
+    background-color: black;
+    width: 90%;
+}
+section {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    text-align: center;
+}
