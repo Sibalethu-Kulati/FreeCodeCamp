@@ -12,7 +12,7 @@ h1 {
     background-color: white;
     text-align: center;
     border-radius: 8px;
-    box-shadow: 0 0 8px gray;
+    box-shadow: 0 0 2px 29px rgba(0,0,0,0.l);
     width: 50%;
     margin: 10px auto;
     padding: 0 100px;
